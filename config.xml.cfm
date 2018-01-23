@@ -1,0 +1,1 @@
+<mura name="Custom Form" contenttypes="*"></mura>
